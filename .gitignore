@@ -1,0 +1,11 @@
+#Ignore the local .env file
+#
+.env
+
+#Ignore the sql backup file
+#
+my-wp-backup.sql
+
+#Ignore the backups
+my-wp-backup.sql
+my-detest.sql
